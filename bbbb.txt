@@ -6,3 +6,9 @@ sadfdsa
 fasdfdsa
 
 
+<<<<<<< HEAD
+=======
+dev分支
+
+f1分支上的文件
+>>>>>>> f1
